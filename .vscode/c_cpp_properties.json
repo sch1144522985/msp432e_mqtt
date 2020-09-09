@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/ti/simplelink_msp432e4_sdk_3_40_01_02/source","D:/ti/simplelink_msp432e4_sdk_3_40_01_02/source/third_party/CMSIS/Include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE","__MSP432E401Y__","__STATIC_INLINE=static"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "D:/vs2017/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
